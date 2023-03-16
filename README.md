@@ -1,5 +1,5 @@
 <div>
-  <h1 align="center"><a href="https://frontendmasters.com/courses/remix/">💿 Remix Fundamentals</a></h1>
+  <h1 align="center"><a href="https://remix.run">💿 Fundamentals for Building Modern Web Applications with Remix </a></h1>
   <strong>
     Build Better websites with Remix
   </strong>
@@ -18,12 +18,6 @@
 [![Code of Conduct][coc-badge]][coc]
 <!-- prettier-ignore-end -->
 
-## Prerequisites
-
-- Some
-  [experience with JavaScript](https://kentcdodds.com/blog/javascript-to-know-for-react)
-- Some [experience with React](https://kcd.im/beginner-react)
-- Some [experience with Node.js](https://nodejs.dev/learn)
 
 ## System Requirements
 
@@ -49,7 +43,7 @@ variable and how to fix it here for [windows][win-path] or
 Follow these steps to get this set up:
 
 ```sh
-git clone https://github.com/FrontendMasters/remix-fundamentals.git
+git clone https://github.com/mghimouze/Remix-c
 cd remix-fundamentals
 npm run setup
 ```
@@ -140,20 +134,14 @@ your code changes happen). You'll need to ignore any changes to
 Each exercise has an Elaboration and Feedback link. Please fill that out after
 the exercise and instruction.
 
-At the end of the workshop, please go to this URL to give overall feedback.
-Thank you! https://kcd.im/rmx-workshop-ws-feedback
+
 
 <!-- prettier-ignore-start -->
 [npm]: https://www.npmjs.com/
 [node]: https://nodejs.org
 [git]: https://git-scm.com/
-[build-badge]: https://img.shields.io/github/workflow/status/FrontendMasters/remix-fundamentals/%E2%9C%85%20Validate/main?logo=github&style=flat-square
-[build]: https://github.com/FrontendMasters/remix-fundamentals/actions?query=workflow%3Avalidate
 [license-badge]: https://img.shields.io/badge/license-GPL%203.0%20License-blue.svg?style=flat-square
-[license]: https://github.com/FrontendMasters/remix-fundamentals/blob/main/LICENSE
 [coc-badge]: https://img.shields.io/badge/code%20of-conduct-ff69b4.svg?style=flat-square
-[coc]: https://kentcdodds.com/conduct
 [win-path]: https://www.howtogeek.com/118594/how-to-edit-your-system-path-for-easy-command-line-access/
-[mac-path]: http://stackoverflow.com/a/24322978/971592
-[issue]: https://github.com/FrontendMasters/remix-fundamentals/issues/new
+
 <!-- prettier-ignore-end -->
